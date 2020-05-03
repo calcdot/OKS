@@ -66,7 +66,8 @@ What i do with machines like this is enumerate and gather all information i can 
 ### -- New OSCP (2020) --
 I havent had the pleasure to work within new lab that they rolled out end of january this year. 
 In short they added Active Directory attacks and passive information gathering.
-You can find whole list of modules they introduced here - https://www.offensive-security.com/offsec/pwk-2020-update/
+You can find whole list of modules they introduced here - 
+https://www.offensive-security.com/offsec/pwk-2020-update/
 
 Lab till 2020 was very old, utilising even in some cases XP systems, powershell wasnt fully operation on large number of systems.
 However i beleive 2020 update revived this certificate and added content made it relevant on market again.
