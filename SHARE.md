@@ -20,18 +20,20 @@ easyer learning curve than Arch based systems.
 6. Active student forums, where you can discuss boxes with other students if you get stuck.
 
 ### -- Current Lab prices (prerequisite for taking exam) --
+```
 PWK course + 30 days lab access + OSCP exam certification fee -	$999
 PWK course + 60 days lab access + OSCP exam certification fee -	$1199
 PWK course + 90 days lab access + OSCP exam certification fee -	$1349
+```
 
 ### -- Bahemoths --
 Besides a lot of "normal" boxes in the lab there are few exceptions like behimuths and bosses that we will cover now.
 Behimuth is usually Windows Server / Domain controler with a lot of services running, all of them require investigation and can provide some type of access that
 can be utilised in exploit chain later.
 
-## Exampe NMAP output of such machine -
-
-Starting Nmap 7.80 ( https://nmap.org ) at 2020-04-18 17:48 CEST
+Exampe NMAP output of such machine -
+```
+Starting Nmap 7.80 ( https://nmap[.]org ) at 2020-04-18 17:48 CEST
 Nmap scan report for 127.0.0.1
 Host is up (0.14s latency).
 Not shown: 65520 filtered ports
@@ -50,6 +52,7 @@ PORT      STATE SERVICE
 5985/tcp  open  wsman
 49154/tcp open  unknown
 49155/tcp open  unknown
+```
 
 ### -- Bosses -- 
 There are 5 bosses (or more in new oscp lab) that you will encounter. 
@@ -74,8 +77,9 @@ Exam takes 24 hours to complete.
 You need 70 out of total 100 points to pass.
 
 ## Exam points are devided on systems -
+```
  1. 25 points for Buffer overflow (Boss)
  2. 25 points for Behemoth 
  3. 2 x 20 point Normal machines.
  4. 10 point macgine (easy)
-
+```
